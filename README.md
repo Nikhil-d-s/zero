@@ -42,9 +42,10 @@ It helps you focus on *zeroing out* your daily tasks with a clean interface, smo
 ### 📱 UI Preview  
 
 <p align="center">
-  <img src="https://github.com/yourusername/Zero/blob/main/screenshots/home.png" width="250"/>
-  <img src="https://github.com/yourusername/Zero/blob/main/screenshots/add_task.png" width="250"/>
-  <img src="https://github.com/yourusername/Zero/blob/main/screenshots/delete_slider.png" width="250"/>
+  <img src="https://github.com/nikhil-d-s/Zero/blob/main/screenshots/s1.jpg" width="250"/>
+  <img src="https://github.com/nikhil-d-s/Zero/blob/main/screenshots/s2.jpg" width="250"/>
+  <img src="https://github.com/nikhil-d-s/Zero/blob/main/screenshots/s3.jpg" width="250"/>
+  <img src="https://github.com/nikhil-d-s/Zero/blob/main/screenshots/s4.jpg" width="250"/>
 </p>
 
 > _Screenshots of Home, Add Task, and Swipe-to-Delete screens (add your images in a `/screenshots` folder)._
